@@ -5,7 +5,6 @@ import Animatedtext from '@/components/Animatedtext'
 import Navbar from '@/components/Navbar'
 import Profilepic from '../../app/developer-pic-2.png'
 import Image from 'next/image'
-import { useSpring } from 'framer-motion'
 import Skills from '@/components/Skills'
 import Footer from '@/components/Footer'
 
